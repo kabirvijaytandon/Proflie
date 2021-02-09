@@ -1,0 +1,18 @@
+#img1 {
+    height: 450px;
+    width: 450px;
+}
+
+#img2 {
+    height: 450px;
+    width: 450px;
+}
+
+span {
+    margin: 40px;
+}
+
+body {
+    text-align: center;
+    background-color: mediumblue;
+}
